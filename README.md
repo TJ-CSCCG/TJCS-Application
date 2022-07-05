@@ -20,8 +20,9 @@
 
 具体而言：
 
-* 你可以查看 [项目结构](CONTRIBUTING.md#anchor-标准) 了解本仓库的目录结构；
-* 并通过 [贡献流程](CONTRIBUTING.md#heart-贡献流程) 了解如何参与本项目。
+* 你可以查看 [项目结构](CONTRIBUTING.md#anchor-标准)，或者直接查看 [样例高校-HMU](./HMU/) 了解本仓库的目录结构；
+* 此后通过 [贡献流程](CONTRIBUTING.md#heart-贡献流程) 了解如何参与本项目；
+* 完成你的贡献！
 
 ## :church: 免责
 

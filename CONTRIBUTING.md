@@ -28,7 +28,7 @@
 
 * README.md 叙述该年度报名录取情况；
 * doc 文件夹放置该年度中比较重要的文档（尽可能上传文本文件）；
-* experience 文件夹放置该年度参与该校申请流程同学的经验贴。文件名：[GitHub 用户名]-[报名所属阶段]-[参与情况].md，如：[skyleaworlder-九推-offer.md](HMU/2021/experience/skyleaworlder-九推-offer.md)。
+* experience 文件夹放置该年度参与该校申请流程同学的经验贴。文件名：[GitHub 用户名]-[报名学院]-[报名专业]-[报名所属阶段]-[参与情况].md，如：[skyleaworlder-迟学院-躺平学-九推-offer.md](HMU/2021/experience/skyleaworlder-迟学院-躺平学-九推-offer.md)。
 
 ## :hammer_and_wrench: 推荐使用
 
