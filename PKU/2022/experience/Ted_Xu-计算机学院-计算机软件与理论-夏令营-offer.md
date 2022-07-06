@@ -23,7 +23,7 @@
 
 ## 3. 填报
 
-PKU 有统一的学校[研究生招生网](https://admission.pku.edu.cn/)，报名流程相对比较清晰。
+PKU 有统一的学校 [研究生招生网](https://admission.pku.edu.cn/)，报名流程相对比较清晰。
 
 ## 4. 面试
 
